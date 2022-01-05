@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jetpack Glance Demo</string>
+    <string name="app_widget_description">Hello World</string>
+</resources>
